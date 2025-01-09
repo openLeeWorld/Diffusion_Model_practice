@@ -1,1 +1,1 @@
-"# Diffusion_Model_practice" 
+# Diffusion_Model_practice
