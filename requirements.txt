@@ -1,0 +1,6 @@
+numpy==1.24.2
+scipy==1.10.1
+matplotlib==3.7.1
+torch==2.0.0 # PyTorch
+torchvision==0.15.1 # PyTorch와 함께 사용되는 컴퓨터 비전 라이브러리
+tqdm==4.65.0 # Python용 진행률 표시(progress bar) 라이브러리
